@@ -39,6 +39,44 @@
             <element>u_what_needed</element>
             <hint/>
             <inactive>false</inactive>
+            <label>Option 2</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_13_06_2024</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>trk@geholding.no</sys_created_by>
+            <sys_created_on>2024-06-18 12:36:37</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>trk@geholding.no</sys_updated_by>
+            <sys_updated_on>2024-06-18 12:36:37</sys_updated_on>
+            <value>Option 2</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
+            <label>Other</label>
+            <language>en</language>
+            <name>x_58872_needit_needit_13_06_2024</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>trk@geholding.no</sys_created_by>
+            <sys_created_on>2024-06-18 12:36:36</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>trk@geholding.no</sys_updated_by>
+            <sys_updated_on>2024-06-18 12:36:36</sys_updated_on>
+            <value>Other</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_what_needed</element>
+            <hint/>
+            <inactive>false</inactive>
             <label>Human Resources 2</label>
             <language>en</language>
             <name>x_58872_needit_needit_13_06_2024</name>

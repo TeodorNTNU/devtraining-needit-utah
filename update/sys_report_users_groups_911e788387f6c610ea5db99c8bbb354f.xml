@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_report_users_groups">
+    <sys_report_users_groups action="INSERT_OR_UPDATE">
+        <group_id/>
+        <report_id display_value="Cost per hour work">1d1e788387f6c610ea5db99c8bbb354e</report_id>
+        <sys_class_name>sys_report_users_groups</sys_class_name>
+        <sys_created_by>trk@geholding.no</sys_created_by>
+        <sys_created_on>2024-06-19 09:33:21</sys_created_on>
+        <sys_id>911e788387f6c610ea5db99c8bbb354f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>1d1e788387f6c610ea5db99c8bbb354e</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_report_users_groups_911e788387f6c610ea5db99c8bbb354f</sys_update_name>
+        <sys_updated_by>trk@geholding.no</sys_updated_by>
+        <sys_updated_on>2024-06-19 09:33:21</sys_updated_on>
+        <user_id display_value="Teodor Rustad Kvisberg">68cdd19e1b9a0e50cf3311fc2d4bcb1a</user_id>
+    </sys_report_users_groups>
+</record_update>

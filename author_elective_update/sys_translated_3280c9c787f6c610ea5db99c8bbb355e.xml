@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated">
+    <sys_translated action="DELETE">
+        <element>name</element>
+        <id/>
+        <label>New Tab 3</label>
+        <language>en</language>
+        <name>pa_tabs</name>
+        <sys_class_name>sys_translated</sys_class_name>
+        <sys_created_by>trk@geholding.no</sys_created_by>
+        <sys_created_on>2024-06-19 09:44:07</sys_created_on>
+        <sys_id>3280c9c787f6c610ea5db99c8bbb355e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_translated_3280c9c787f6c610ea5db99c8bbb355e</sys_update_name>
+        <sys_updated_by>trk@geholding.no</sys_updated_by>
+        <sys_updated_on>2024-06-19 09:44:07</sys_updated_on>
+        <value>fa8049c787f6c610ea5db99c8bbb35d6New Tab 3</value>
+    </sys_translated>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>d5f3e367dbd67010b847ac44d49619c2</instance_id>
+        <instance_name>gehdev</instance_name>
+        <name>sys_translated_3280c9c787f6c610ea5db99c8bbb355e</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_translated"><sys_translated action="INSERT_OR_UPDATE"><element>name</element><id/><label>New Tab 3</label><language>en</language><name>pa_tabs</name><sys_class_name>sys_translated</sys_class_name><sys_created_by>trk@geholding.no</sys_created_by><sys_created_on>2024-06-19 09:44:07</sys_created_on><sys_id>3280c9c787f6c610ea5db99c8bbb355e</sys_id><sys_mod_count>0</sys_mod_count><sys_name>New Tab 3</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_translated_3280c9c787f6c610ea5db99c8bbb355e</sys_update_name><sys_updated_by>trk@geholding.no</sys_updated_by><sys_updated_on>2024-06-19 09:44:07</sys_updated_on><value>fa8049c787f6c610ea5db99c8bbb35d6New Tab 3</value></sys_translated></record_update>]]></payload>
+        <payload_hash>-1257536371</payload_hash>
+        <record_name>New Tab 3</record_name>
+        <reverted_from/>
+        <source>50fe6e9187360210ea5db99c8bbb35f7</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>trk@geholding.no</sys_created_by>
+        <sys_created_on>2024-06-19 09:44:07</sys_created_on>
+        <sys_id>3680c9c787f6c610ea5db99c8bbb3560</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>1902fe1d3050000001</sys_recorded_at>
+        <sys_updated_by>trk@geholding.no</sys_updated_by>
+        <sys_updated_on>2024-06-19 09:44:07</sys_updated_on>
+        <type>Translated Name / Field</type>
+        <update_guid>f680c9c73ff6c6108eb3d8325a20ef5f</update_guid>
+        <update_guid_history>f680c9c73ff6c6108eb3d8325a20ef5f:-1257536371</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>trk@geholding.no</sys_created_by>
+        <sys_created_on>2024-06-19 09:44:13</sys_created_on>
+        <sys_db_object display_value="" name="sys_translated">sys_translated</sys_db_object>
+        <sys_id>102921a3c520426c8a757871c5f91f84</sys_id>
+        <sys_metadata>3280c9c787f6c610ea5db99c8bbb355e</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New Tab 3</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_translated_3280c9c787f6c610ea5db99c8bbb355e</sys_update_name>
+        <sys_update_version display_value="sys_translated_3280c9c787f6c610ea5db99c8bbb355e">3680c9c787f6c610ea5db99c8bbb3560</sys_update_version>
+        <sys_updated_by>trk@geholding.no</sys_updated_by>
+        <sys_updated_on>2024-06-19 09:44:13</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
